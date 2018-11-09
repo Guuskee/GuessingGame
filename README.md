@@ -1,5 +1,6 @@
 #The Guessing Game
+##make last run on:
+10:32:52 11/09/18
 ##Amount of lines of code used:
 29
-11/09/18 10:25:29
-Run the script to begin the game
+*Run the script to begin the game*
