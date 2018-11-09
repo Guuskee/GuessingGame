@@ -1,10 +1,10 @@
-#The Guessing Game
+# The Guessing Game
 
-##make last run on:
+## make last run on:
 
-10:39:13 11/09/18
+10:42:11 11/09/18
 
-##Amount of lines of code used:
+## Amount of lines of code used:
 
 29
 
